@@ -9,6 +9,8 @@ form{
     margin:auto;
     text-align: left;
     border-radius: 10px;
+    display:flex;
+    flex-direction:column;
 }
 .text{
     width:100%;
